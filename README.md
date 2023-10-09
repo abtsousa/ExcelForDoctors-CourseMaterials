@@ -1,4 +1,8 @@
+![](flyer.jpg)
+
 This repository contains course materials for my 1-Day Excel course in 2023 aimed at young GP / Family Medicine intern doctors (in Portuguese).
+
+![](screenshot.png)
 
 In order to simulate a real GP's office, I created a **fake patient list** with >1600 patients by scraping various websites for data (among which the Portuguese 2021 Census website) and carefully modeling it to match the real statistical distribution in Portugal of parameters such as age, gender, family size and home region. Each patient was assigned a fake National Health System number and a fake first and last name also matching the current name distribution in Portugal.
 
