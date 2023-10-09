@@ -1,0 +1,30 @@
+
+/* --- badge.css --- */  
+ .badge {
+	background: #248957;
+	border-radius: 5px;
+	padding: 5px;
+	color:white;
+}
+
+.badge img[src*=svg] {
+	filter: invert(100%) !important;
+}
+  
+
+
+/* --- strong.css --- */  
+ strong, em, .cm-strong,
+.markdown-preview-section strong, .cm-em,
+.markdown-preview-section em {
+	color:#248957 !important;
+}  
+
+
+/* --- svg.css --- */  
+ img[src*=svg] {
+	height: 16px !important;
+}
+  
+
+
